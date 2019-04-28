@@ -1,0 +1,4 @@
+flask
+requests
+graphene>=2.0.0
+flask-graphql
